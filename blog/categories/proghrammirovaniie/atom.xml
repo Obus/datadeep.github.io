@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
 
-  <title><![CDATA[Категория: Programming | DataDeep]]></title>
-  <link href="http://datadeep.github.io/blog/categories/programming/atom.xml" rel="self"/>
+  <title><![CDATA[Категория: Программирование | DataDeep]]></title>
+  <link href="http://datadeep.github.io/blog/categories/proghrammirovaniie/atom.xml" rel="self"/>
   <link href="http://datadeep.github.io/"/>
-  <updated>2014-11-12T13:25:24+03:00</updated>
+  <updated>2014-11-12T17:12:05+03:00</updated>
   <id>http://datadeep.github.io/</id>
   <author>
     <name><![CDATA[Команда datadeep.ru]]></name>
